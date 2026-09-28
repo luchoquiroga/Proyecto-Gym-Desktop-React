@@ -60,5 +60,3 @@ Studio. La primera compilación tarda unos minutos.
 ## Git
 
 No commitear ni pushear sin que lo pida el dueño.
-
-prueba
